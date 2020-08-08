@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Ankur-Kumar-Portfolio/precache-manifest.846c9ff47a92e7dbd24e5d124e8af3f3.js"
+  "/Ankur-Kumar-Portfolio/precache-manifest.d87b4b8e845a9e67acd28ea1fec3b0a1.js"
 );
 
 workbox.clientsClaim();
