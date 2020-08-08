@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "cd2c34bfcd6e10609ff2",
+    "revision": "cb545f7f22f07f6c2c9f",
     "url": "/Ankur-Kumar-Portfolio/static/css/main.73f51e24.chunk.css"
   },
   {
-    "revision": "cd2c34bfcd6e10609ff2",
-    "url": "/Ankur-Kumar-Portfolio/static/js/main.d89657d2.chunk.js"
+    "revision": "cb545f7f22f07f6c2c9f",
+    "url": "/Ankur-Kumar-Portfolio/static/js/main.e27bf501.chunk.js"
   },
   {
     "revision": "f194f3cf810172691f00",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/Ankur-Kumar-Portfolio/static/media/header_background.89d3b45b.jpg"
   },
   {
-    "revision": "0ca65128bf3edebc0253c60b81f5670a",
+    "revision": "2393f2e44af24490a33b98f17cafa15d",
     "url": "/Ankur-Kumar-Portfolio/index.html"
   }
 ];
