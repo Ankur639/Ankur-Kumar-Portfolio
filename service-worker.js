@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Ankur-Kumar-Portfolio/precache-manifest.d87b4b8e845a9e67acd28ea1fec3b0a1.js"
+  "/Ankur-Portfolio/precache-manifest.1278f84b95824e35b862e080f1464cf8.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Ankur-Kumar-Portfolio/index.html", {
+workbox.routing.registerNavigationRoute("/Ankur-Portfolio/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
